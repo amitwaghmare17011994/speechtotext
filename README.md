@@ -34,3 +34,30 @@ render() {
 }
 export default App;
 ```
+
+index.css
+```
+ 
+.blink {
+  animation: blinker 0.9s cubic-bezier(.5, 0, 1, 1) infinite alternate;  
+ }
+@keyframes blinker {  
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+
+.myDiv
+{
+  top: 50%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+    position:fixed;
+
+}
+```
