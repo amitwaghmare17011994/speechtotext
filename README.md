@@ -16,8 +16,7 @@ class App extends React.Component {
 	render() {
 		const { start, txt } = this.state;
 		return (
-			<div onClick={this.onClick} className='myDiv'  >
-
+			<div onClick={this.onClick} className='myDiv'>
 				<center>
 					<div className={start ? 'blink' : ''}>
 						<SpeechToText
