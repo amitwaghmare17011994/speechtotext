@@ -1,4 +1,8 @@
  
+Installation:
+
+`npm install react_chrome_speechtotext`
+
 Usage:
 
 ```
