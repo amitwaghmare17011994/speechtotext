@@ -65,6 +65,5 @@ index.css
 
 }
 ```
-
-![Video of demo]
-![Image  demo](https://www.loom.com/share/5a02e297a36c42678e698bbfd36cf053)
+Demo Video
+https://www.loom.com/share/5a02e297a36c42678e698bbfd36cf053
