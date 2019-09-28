@@ -1,5 +1,6 @@
- #Usage
-console.log(`
+How To Use react_chrome_speechtotext
+
+
 import React from 'react';
 import SpeechToText from 'speechtotext'
 import './index.css'
@@ -30,4 +31,4 @@ render() {
         </div>);
     }
 }
-export default App;`);
+export default App;
