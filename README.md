@@ -1,6 +1,6 @@
 How To Use react_chrome_speechtotext
 
-
+Usage:
 import React from 'react';
 import SpeechToText from 'speechtotext'
 import './index.css'
