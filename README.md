@@ -7,7 +7,7 @@ Usage:
 
 ```
 import React from 'react';
-import SpeechToText from 'speechtotext'
+import SpeechToText from 'react_chrome_speechtotext'
 import './index.css'
 class App extends React.Component {
 	state = { start: false, txt: "Speech To Text Web Api" };
